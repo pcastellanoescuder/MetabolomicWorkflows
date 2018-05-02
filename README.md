@@ -1,1 +1,1 @@
-# MetabolomicWorkflows
+# Metabolomic Workflows
