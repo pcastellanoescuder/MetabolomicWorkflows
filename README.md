@@ -1,2 +1,2 @@
 ## MetabolomicWorkflows
-https://cdn.rawgit.com/pcastellanoescuder/MetabolomicWorkflows/349b7f62/Metabolomic_Workflows.html
+https://cdn.rawgit.com/pcastellanoescuder/MetabolomicWorkflows/cfecbc83/Metabolomic_Workflows.html
