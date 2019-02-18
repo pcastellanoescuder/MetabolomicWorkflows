@@ -1,4 +1,4 @@
-## MetabolomicWorkflows
+## Metabolomic Workflows
 
 This post is a detailed recopilatory of the most used softwares on metabolomics analysis.  
 
